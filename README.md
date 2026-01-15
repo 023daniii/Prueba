@@ -1,7 +1,7 @@
 # ESCUELA POLITÉCNICA NACIONAL
 
 ## Programación II
-### Prueba 1
+### Prueba 1 Segundo Bimestre
 
 **Estudiante:** Lanchimba Amaguaña Danny Elian  
 **Curso:** Gr2SW  
