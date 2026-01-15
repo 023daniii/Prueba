@@ -1,0 +1,10 @@
+??? SHOW ?? Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+????? LOG  ?? 2026-01-13 20:14:26 | LdAlimentoTipoDAO.readAll | [SQLITE_ERROR] SQL error or missing database (no such table: mjAlimentoTipo)
+??? SHOW ?? Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+????? LOG  ?? 2026-01-13 20:30:23 | LdAlimentoTipoDAO.readBy | [SQLITE_ERROR] SQL error or missing database (no such table: mjAlimentoTipo)
+??? SHOW ?? Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+????? LOG  ?? 2026-01-13 20:35:20 | LdAlimentoTipoDAO.readBy | [SQLITE_ERROR] SQL error or missing database (no such table: mjAlimentoTipo)
+??? SHOW ?? Ups! Error inesperado. Por favor, contacte al administrador del sistema. 
+????? LOG  ?? 2026-01-13 20:58:53 | LdAlimentoTipoDAO.readBy | [SQLITE_ERROR] SQL error or missing database (no such column: IdmjAlimentoTipo)
+??? SHOW ?? Ups... problemas con la vista 
+????? LOG  ?? 2026-01-13 21:56:31 | LdHormigaDAO.getLdVWHormiga() | [SQLITE_ERROR] SQL error or missing database (no such table: mjvwHormiga)
